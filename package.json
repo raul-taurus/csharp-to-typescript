@@ -1,0 +1,15 @@
+{
+  "name": "csharp-to-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github-raul:raul-taurus/csharp-to-typescript.git",
+  "author": "Raul Li <raul.guoping@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/command-line-args": "^5.2.3",
+    "@types/node": "^20.14.9"
+  }
+}
